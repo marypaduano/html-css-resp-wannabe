@@ -61,6 +61,10 @@ h3{
         width: 100%;
     }
 
+    .steps.text-center{
+        margin-bottom: 0;
+    }
+
     .why-us .col-left{
         width: 100%;
     }
@@ -68,6 +72,14 @@ h3{
     .why-us .col-right{
         width: 100%;
     }
+
+    .why-us{
+        background-color: black;
+        padding-top: 50px;
+        margin-bottom: 0;
+    }
+
+
 
 
    
